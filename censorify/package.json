@@ -1,9 +1,17 @@
 {
-  "author": "Chan",
-  "name": "censorify",
+  "author": "Chanft",
+  "name": "chanft-censorify",
   "version": "0.1.1",
   "description": "Censors words out of text",
   "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chanft/learning/tree/master/censorify"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
   "dependencies": {},
   "engines": {
     "node": "*"
